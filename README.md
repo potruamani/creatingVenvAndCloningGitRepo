@@ -1,5 +1,7 @@
 # creatingVenvAndCloningGitRepo
 
+NOTE:
+  This script only works with python3 and above
 USAGE: 
   1. This script will create a directory clone the git repo into that directory
   2. Change clone_url in the script to your choice of url
